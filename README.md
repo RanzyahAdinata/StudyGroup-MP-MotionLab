@@ -1,4 +1,4 @@
-# Study Group: Pengenalan Version Control (Git)
+# Study Group W-0: Pengenalan Version Control (Git)
 
 ### 📅 Tanggal: 13 November 2024  
 ### 📍 Tempat: TULT07-01  
