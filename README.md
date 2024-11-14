@@ -1,4 +1,4 @@
-# 👋 Selamat datang di Repositori MotionLab GitHub Saya!
+# 👋 Selamat datang di Repositori GitHub MotionLab Saya!
 
 Halo! Saya **Ranzyah Adinata Aldo Ala Alfreda**, seorang **Junior Software Engineer**.
 
