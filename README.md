@@ -1,69 +1,89 @@
-Tanggal: 13 November 2024
+# Study Group: Pengenalan Version Control (Git)
 
-Tempat: TULT07-01
+### 📅 Tanggal: 13 November 2024  
+### 📍 Tempat: TULT07-01  
+### 👨‍🏫 Pemateri: Kak Yazid
 
-Pemateri: KAK YAZID
+---
 
-**PENGENALAN VERSION CONTROL (GIT)**
+## Deskripsi Kegiatan
 
-Pada hari ini, telah diadakan kegiatan study group di Motion Lab dengan materi Git Version Control. Acara ini bertujuan untuk memberikan pemahaman dasar hingga tingkat lanjut tentang penggunaan Git sebagai alat pengelolaan versi (version control) yang penting dalam pengembangan perangkat lunak.
+Pada **13 November 2024**, Motion Lab mengadakan **study group** dengan topik **Git Version Control**. Kegiatan ini bertujuan untuk memberikan pemahaman dasar hingga tingkat lanjut mengenai penggunaan **Git** sebagai alat pengelolaan versi (version control), yang sangat penting dalam pengembangan perangkat lunak.
 
-Rincian Kegiatan:
+---
 
-  **Pengenalan Git**
-  
-  Kegiatan dimulai dengan pengenalan Git, alasan pentingnya penggunaan Git dalam pengembangan proyek, serta perbedaan Git dengan version control lainnya. Para peserta diajak untuk memahami manfaat Git dalam kolaborasi tim, seperti melacak perubahan kode dan menghindari konflik saat bekerja bersama.
+## Rincian Kegiatan
 
-  **Dasar-Dasar Perintah Git**
-  
-  Materi kemudian berlanjut ke dasar-dasar perintah Git, seperti git init, git add, git commit, git push, dan git pull. Para peserta diberikan kesempatan untuk mempraktikkan perintah-perintah ini secara langsung dengan proyek sederhana. Penjelasan mengenai staging area, commit, serta push dan pull dalam repositori juga dijelaskan secara rinci.
+### 1. **Pengenalan Git**
+Kegiatan dimulai dengan pengenalan tentang **Git**, alasan mengapa Git sangat penting dalam pengembangan proyek, serta perbandingan Git dengan alat version control lainnya. Para peserta diajak untuk memahami manfaat Git dalam **kolaborasi tim**, seperti melacak perubahan kode dan menghindari konflik saat bekerja bersama.
 
-  **Branching dan Merging**
-  
-  Salah satu topik penting dalam Git adalah branching dan merging. Peserta diperkenalkan pada konsep branch dan cara membuat serta mengelola cabang dalam proyek. Ditekankan pula pentingnya branching dalam alur kerja tim dan bagaimana proses merging dilakukan untuk menyatukan perubahan dari berbagai cabang.
+### 2. **Dasar-Dasar Perintah Git**
+Materi dilanjutkan dengan penjelasan dasar-dasar perintah Git, seperti:
+- `git init`
+- `git add`
+- `git commit`
+- `git push`
+- `git pull`
 
-**BEBERAPA PROMPT YANG BISA DIGUNAKAN**
+Peserta diberikan kesempatan untuk mempraktikkan perintah-perintah ini secara langsung dalam proyek sederhana. Penjelasan mendalam tentang **staging area**, **commit**, serta proses **push** dan **pull** dalam repositori juga dibahas secara rinci.
 
+### 3. **Branching dan Merging**
+Salah satu topik penting adalah **branching dan merging**. Peserta diperkenalkan pada konsep **branch** dan cara membuat serta mengelola cabang dalam proyek. Materi ini menekankan pentingnya branching dalam **alur kerja tim** dan bagaimana proses merging digunakan untuk menyatukan perubahan dari berbagai cabang.
 
-git **init** : Menginisialisasi repository Git baru di folder saat ini. Ini membuat folder .git yang akan menyimpan riwayat versi file.
-	
-git **clone <repository-url>**
-: Menggandakan repository GitHub ke komputer lokal. Biasanya digunakan untuk mendownload repo GitHub ke mesin lokal.
-	
-git **status**
-: Menampilkan status file di repo lokal, seperti file yang dimodifikasi, staged, atau file baru yang belum ditambahkan.
-	
-git **add <file> atau git add .**
-: Menambahkan perubahan pada file atau semua file ke dalam staging area, sebagai persiapan untuk di-commit.
-	
-git **commit -m "pesan commit"**
-: Menyimpan perubahan dalam staging area ke riwayat Git dengan pesan tertentu.
-	
-git **push origin <branch>**
-: Mengirim perubahan dari repository lokal ke GitHub pada branch tertentu. Biasanya digunakan setelah melakukan commit.
-	
-git **pull origin <branch>**
-: Mengambil (fetch) perubahan dari repository GitHub dan langsung menggabungkannya (merge) dengan branch lokal.
-	
-git **fetch origin**
-: Mengambil perubahan dari repository GitHub tanpa menggabungkannya ke branch lokal.
-	
-git **branch**
-: Menampilkan daftar branch yang ada di repository lokal. Juga menandai branch yang sedang aktif.
-	
-git **branch <nama-branch>**
-: Membuat branch baru dari branch yang sedang aktif.
-	
-git **checkout <branch>**
-: Berpindah ke branch lain yang telah ada di repo lokal.
-	
-git **merge <branch>**
-: Menggabungkan branch tertentu ke branch yang sedang aktif.
-	
-git **log**
-: Menampilkan riwayat commit pada branch aktif, termasuk ID commit, pesan commit, nama pembuat, dan tanggal.
-	
-git **reset --hard <commit-id>**
-: Mengembalikan repository ke kondisi tertentu berdasarkan commit ID, menghapus perubahan yang belum di-commit.
-	
-git **branch --set-upstream** : Menghubungkan antar branch.
+---
+
+## Beberapa Perintah Git yang Bisa Digunakan
+
+- `git init`  
+  Menginisialisasi repository Git baru di folder saat ini. Ini membuat folder `.git` yang menyimpan riwayat versi file.
+
+- `git clone`  
+  Menggandakan repository GitHub ke komputer lokal.
+
+- `git status`  
+  Menampilkan status file di repo lokal (misalnya file yang dimodifikasi, staged, atau file baru yang belum ditambahkan).
+
+- `git add` atau `git add .`  
+  Menambahkan perubahan file ke staging area, siap untuk di-commit.
+
+- `git commit -m "pesan commit"`  
+  Menyimpan perubahan di staging area ke riwayat Git dengan pesan yang deskriptif.
+
+- `git push origin <branch>`  
+  Mengirim perubahan dari repository lokal ke GitHub pada branch tertentu.
+
+- `git pull origin <branch>`  
+  Mengambil perubahan dari repository GitHub dan menggabungkannya dengan branch lokal.
+
+- `git fetch origin`  
+  Mengambil perubahan dari repository GitHub tanpa menggabungkannya.
+
+- `git branch`  
+  Menampilkan daftar branch yang ada di repository lokal.
+
+- `git branch <branch_name>`  
+  Membuat branch baru dari branch yang aktif.
+
+- `git checkout <branch_name>`  
+  Berpindah ke branch lain di repo lokal.
+
+- `git merge <branch_name>`  
+  Menggabungkan branch tertentu ke branch aktif.
+
+- `git log`  
+  Menampilkan riwayat commit pada branch aktif.
+
+- `git reset --hard <commit_id>`  
+  Mengembalikan repository ke kondisi commit tertentu, menghapus perubahan yang belum di-commit.
+
+- `git branch --set-upstream`  
+  Menghubungkan antar branch.
+
+---
+
+## Kesimpulan
+Kegiatan ini memberikan peserta wawasan mendalam tentang **Git**, yang sangat berguna dalam **kolaborasi proyek** dan manajemen versi perangkat lunak. Pemahaman yang lebih baik mengenai **branching, merging**, dan perintah dasar Git akan meningkatkan efisiensi tim dalam mengelola kode sumber.
+
+---
+
+Terima kasih kepada semua peserta yang hadir dan Kak Yazid sebagai pemateri!
