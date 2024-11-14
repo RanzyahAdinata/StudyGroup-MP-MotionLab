@@ -29,6 +29,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 > If the file /Users/YOU/.ssh/config does not exist.
 
   touch ~/.ssh/config
+  
 **Dan BLA BLA BLAA, bisa diliat di dokumentasi guys**
 
 Lalu save keynya di GitHub...
