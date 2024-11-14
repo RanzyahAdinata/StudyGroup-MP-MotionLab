@@ -82,7 +82,8 @@ Salah satu topik penting adalah **branching dan merging**. Peserta diperkenalkan
 ---
 
 ## Kesimpulan
-Kegiatan ini memberikan peserta wawasan mendalam tentang **Git**, yang sangat berguna dalam **kolaborasi proyek** dan manajemen versi perangkat lunak. Pemahaman yang lebih baik mengenai **branching, merging**, dan perintah dasar Git akan meningkatkan efisiensi tim dalam mengelola kode sumber.
+Kegiatan ini memberikan peserta intern motion untuk mengenal git sebelum nantinya akan digunakan sebagai salah satu media kolaborasi dalam pemrograman
+dalam project-project software development kedepannya.
 
 ---
 
