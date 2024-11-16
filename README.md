@@ -8,7 +8,7 @@ Halo! Saya **Ranzyah Adinata Aldo Ala Alfreda**, seorang **Junior Software Engin
 
 🌱 Saat ini, saya sedang mempelajari:
 
-- **Mobile Programming MultiOS** dengan **Flutter**
+- **Mobile Programming**
 
 💬 Jangan lupa untuk memberikan ⭐ pada repositori yang kamu suka!
 
