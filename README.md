@@ -9,6 +9,7 @@ Halo! Saya **Ranzyah Adinata Aldo Ala Alfreda**, seorang **Junior Software Engin
 🌱 Saat ini, saya sedang mempelajari:
 
 - **Mobile Programming**
+- **SwiftUI**
 
 💬 Jangan lupa untuk memberikan ⭐ pada repositori yang kamu suka!
 
