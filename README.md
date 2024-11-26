@@ -1,4 +1,4 @@
-# 👋 Selamat datang di Repositori GitHub MotionLab Saya!
+# 👋 TUGAS MINGGU KE 2 IOS-SWIFT : BASIC SWIFT
 
 Halo! Saya **Ranzyah Adinata Aldo Ala Alfreda**, seorang **Junior Software Engineer**.
 
