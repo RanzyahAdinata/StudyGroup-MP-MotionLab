@@ -1,4 +1,4 @@
-# 👋 TUGAS MINGGU KE 2 IOS-SWIFT : BASIC SWIFT
+# 👋 **TUGAS MINGGU KE 2 IOS-SWIFT : BASIC SWIFT**
 
 Halo! Saya **Ranzyah Adinata Aldo Ala Alfreda**, seorang **Junior Software Engineer**.
 
