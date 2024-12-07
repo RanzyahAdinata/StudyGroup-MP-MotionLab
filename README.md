@@ -1,16 +1,4 @@
-# 👋 Selamat datang di Repositori GitHub MotionLab Saya!
+# 📕 TUGAS MINGGU KE 3 : Slicing UI
 
-Halo! Saya **Ranzyah Adinata Aldo Ala Alfreda**, seorang **Junior Software Engineer**.
-
-🔧 Di sini, kamu bisa menemukan berbagai proyek yang saya kerjakan di **MotionLab**, termasuk proyek untuk pengembangan aplikasi dan beberapa eksperimen menarik yang melibatkan teknologi terbaru!
-
-🚀 Jika kamu tertarik untuk berkolaborasi, berbagi ide, atau hanya ingin ngobrol seputar pengembangan perangkat lunak, jangan ragu untuk menghubungi saya!
-
-🌱 Saat ini, saya sedang mempelajari:
-
-- **Mobile Programming**
-- **SwiftUI**
-
-💬 Jangan lupa untuk memberikan ⭐ pada repositori yang kamu suka!
-
-Terima kasih telah mampir, semoga kita bisa saling belajar dan berkembang bersama! 🙌
+🔧 Membuat tampilan design aplikasi Movies Streaming untuk Detail Reviews pada  :
+https://www.figma.com/design/8q5ZPHUB0UzhYZwBp45QXd/Movies-app?node-id=0-1&t=W06PfDQzNDW3CD33-1](https://www.figma.com/design/8q5ZPHUB0UzhYZwBp45QXd/Movies-app?node-id=0-1&node-type=canvas&t=r2YlVTyxg3ecQi66-0
