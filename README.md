@@ -1,16 +1,21 @@
-# 👋 Selamat datang di Repositori GitHub MotionLab Saya!
+# MVVM Project
 
-Halo! Saya **Ranzyah Adinata Aldo Ala Alfreda**, seorang **Junior Software Engineer**.
+## Folder Utama: `Features\Calculator`
+Untuk melihat file utama, buka folder `Features\Calculator`. Di dalamnya terdapat tiga file inti:
 
-🔧 Di sini, kamu bisa menemukan berbagai proyek yang saya kerjakan di **MotionLab**, termasuk proyek untuk pengembangan aplikasi dan beberapa eksperimen menarik yang melibatkan teknologi terbaru!
+1. **KalkulatorView.swift**  
+   File ini mengelola tampilan (View) dan interaksi pengguna.
 
-🚀 Jika kamu tertarik untuk berkolaborasi, berbagi ide, atau hanya ingin ngobrol seputar pengembangan perangkat lunak, jangan ragu untuk menghubungi saya!
+2. **KalkulatorModel.swift**  
+   File ini menangani logika bisnis dan data kalkulasi.
 
-🌱 Saat ini, saya sedang mempelajari:
+3. **KalkulatorViewModel.swift**  
+   File ini berfungsi sebagai penghubung antara View dan Model, mengelola data untuk ditampilkan di View.
 
-- **Mobile Programming**
-- **SwiftUI**
+### Struktur MVVM
+- **Model**: Logika bisnis & data.
+- **ViewModel**: Menghubungkan data & logika presentasi.
+- **View**: Menampilkan data & menangani input pengguna.
 
-💬 Jangan lupa untuk memberikan ⭐ pada repositori yang kamu suka!
+Buka dan pelajari folder ini untuk memahami implementasi fitur kalkulator. 🚀
 
-Terima kasih telah mampir, semoga kita bisa saling belajar dan berkembang bersama! 🙌
